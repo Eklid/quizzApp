@@ -1,0 +1,26 @@
+Input
+    Kur shtyper 1 alternative:
+        Hiq classeeeeeen selected nga te gjithe buttonat
+        vendos classen selected ne butoon e shtypur
+    Kur shtypet butoni next
+        marim pergjigjen e selektuar duke pare cili buton eshte selected
+            pra ka classen selected
+
+Llogaritje
+    Ruajme ne nje vektor pyetjet
+    Per cdo pyetje ruajme ne nje vektor alternativat
+    Ruajme numri i pyetjes fillon nga 0
+    Ruajme rezultatin fillojme nga 0
+    
+    Kur shtypet next:
+        Nese pergjigja eshte e sakte => rezultati++
+        Rrisim nr e pytejes : nrPyetje++
+
+Output
+    Shfaqim pyetjet nga pyetja e pare me gjithe alternativat
+    
+    Kur shtypet next:
+        Nese jemi te pyetja e fundit
+            Shfaqim get result
+        Nese jo 
+            Shfaqim pyetjen e rradhes
